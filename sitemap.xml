@@ -4,64 +4,64 @@
   
   <url>
     <loc>https://onepiece-id.netlify.com/arcs/</loc>
-    <lastmod>2019-08-17T20:14:00+07:00</lastmod>
+    <lastmod>2019-08-17T20:12:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://onepiece-id.netlify.com/arcs/little-east-blue/</loc>
-    <lastmod>2019-08-17T20:14:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.com/summit-war/little-east-blue/one-piece-episode-429-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:14:00+07:00</lastmod>
+    <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-456-subtitle-indonesia/</loc>
+    <lastmod>2019-08-17T20:12:23+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://onepiece-id.netlify.com/</loc>
-    <lastmod>2019-08-17T20:14:00+07:00</lastmod>
+    <lastmod>2019-08-17T20:12:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://onepiece-id.netlify.com/saga/</loc>
-    <lastmod>2019-08-17T20:14:00+07:00</lastmod>
+    <lastmod>2019-08-17T20:12:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/arcs/straw-hats-separation-serial/</loc>
+    <lastmod>2019-08-17T20:12:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://onepiece-id.netlify.com/saga/summit-war/</loc>
-    <lastmod>2019-08-17T20:14:00+07:00</lastmod>
+    <lastmod>2019-08-17T20:12:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://onepiece-id.netlify.com/summit-war/</loc>
-    <lastmod>2019-08-17T20:14:00+07:00</lastmod>
+    <lastmod>2019-08-17T20:12:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://onepiece-id.netlify.com/summit-war/little-east-blue/one-piece-episode-428-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:13:55+07:00</lastmod>
+    <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-455-subtitle-indonesia/</loc>
+    <lastmod>2019-08-17T20:12:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://onepiece-id.netlify.com/summit-war/little-east-blue/one-piece-episode-427-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:13:49+07:00</lastmod>
+    <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-454-subtitle-indonesia/</loc>
+    <lastmod>2019-08-17T20:12:21+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://onepiece-id.netlify.com/summit-war/little-east-blue/one-piece-episode-426-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:13:44+07:00</lastmod>
+    <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-453-subtitle-indonesia/</loc>
+    <lastmod>2019-08-17T20:12:20+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -234,6 +234,40 @@
   </url>
   
   <url>
+    <loc>https://onepiece-id.netlify.com/arcs/little-east-blue/</loc>
+    <lastmod>2019-08-17T20:10:25+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/summit-war/little-east-blue/one-piece-episode-429-subtitle-indonesia/</loc>
+    <lastmod>2019-08-17T20:10:25+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/summit-war/little-east-blue/one-piece-episode-428-subtitle-indonesia/</loc>
+    <lastmod>2019-08-17T20:10:24+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/summit-war/little-east-blue/one-piece-episode-427-subtitle-indonesia/</loc>
+    <lastmod>2019-08-17T20:10:23+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/summit-war/little-east-blue/one-piece-episode-426-subtitle-indonesia/</loc>
+    <lastmod>2019-08-17T20:10:22+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://onepiece-id.netlify.com/summit-war/impel-down/one-piece-episode-425-subtitle-indonesia/</loc>
     <lastmod>2019-08-17T20:10:21+07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -262,63 +296,29 @@
   </url>
   
   <url>
-    <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-456-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:02:26+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.com/arcs/straw-hats-separation-serial/</loc>
-    <lastmod>2019-08-17T20:02:26+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-455-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:02:21+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-454-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:02:16+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-453-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:02:11+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-421-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:02:06+07:00</lastmod>
+    <lastmod>2019-08-17T19:52:03+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-420-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:02:00+07:00</lastmod>
+    <lastmod>2019-08-17T19:52:02+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-419-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:01:55+07:00</lastmod>
+    <lastmod>2019-08-17T19:52:01+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://onepiece-id.netlify.com/summit-war/straw-hats-separation-serial/one-piece-episode-418-subtitle-indonesia/</loc>
-    <lastmod>2019-08-17T20:01:50+07:00</lastmod>
+    <lastmod>2019-08-17T19:52:00+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
