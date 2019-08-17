@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saga on One Piece Indonesia</title>
-    <link>https://onepiece-id.web.app/saga/</link>
+    <link>https://onepiece-id.netlify.com/saga/</link>
     <description>Recent content in Saga on One Piece Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Aug 2019 21:24:11 +0700</lastBuildDate>
     
-	<atom:link href="https://onepiece-id.web.app/saga/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://onepiece-id.netlify.com/saga/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Summit War</title>
-      <link>https://onepiece-id.web.app/saga/summit-war/</link>
+      <link>https://onepiece-id.netlify.com/saga/summit-war/</link>
       <pubDate>Fri, 16 Aug 2019 21:24:11 +0700</pubDate>
       
-      <guid>https://onepiece-id.web.app/saga/summit-war/</guid>
+      <guid>https://onepiece-id.netlify.com/saga/summit-war/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Water 7</title>
-      <link>https://onepiece-id.web.app/saga/water-7/</link>
+      <link>https://onepiece-id.netlify.com/saga/water-7/</link>
       <pubDate>Sun, 11 Aug 2019 22:27:19 +0700</pubDate>
       
-      <guid>https://onepiece-id.web.app/saga/water-7/</guid>
+      <guid>https://onepiece-id.netlify.com/saga/water-7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thriller Bark</title>
-      <link>https://onepiece-id.web.app/saga/thriller-bark/</link>
+      <link>https://onepiece-id.netlify.com/saga/thriller-bark/</link>
       <pubDate>Sun, 11 Aug 2019 22:25:21 +0700</pubDate>
       
-      <guid>https://onepiece-id.web.app/saga/thriller-bark/</guid>
+      <guid>https://onepiece-id.netlify.com/saga/thriller-bark/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sky Island</title>
-      <link>https://onepiece-id.web.app/saga/sky-island/</link>
+      <link>https://onepiece-id.netlify.com/saga/sky-island/</link>
       <pubDate>Thu, 08 Aug 2019 16:14:38 +0700</pubDate>
       
-      <guid>https://onepiece-id.web.app/saga/sky-island/</guid>
+      <guid>https://onepiece-id.netlify.com/saga/sky-island/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alabasta</title>
-      <link>https://onepiece-id.web.app/saga/alabasta/</link>
+      <link>https://onepiece-id.netlify.com/saga/alabasta/</link>
       <pubDate>Tue, 06 Aug 2019 17:39:44 +0700</pubDate>
       
-      <guid>https://onepiece-id.web.app/saga/alabasta/</guid>
+      <guid>https://onepiece-id.netlify.com/saga/alabasta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>East Blue</title>
-      <link>https://onepiece-id.web.app/saga/east-blue/</link>
+      <link>https://onepiece-id.netlify.com/saga/east-blue/</link>
       <pubDate>Mon, 29 Jul 2019 11:50:16 +0700</pubDate>
       
-      <guid>https://onepiece-id.web.app/saga/east-blue/</guid>
+      <guid>https://onepiece-id.netlify.com/saga/east-blue/</guid>
       <description></description>
     </item>
     
