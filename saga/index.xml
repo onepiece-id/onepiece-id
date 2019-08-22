@@ -6,10 +6,19 @@
     <description>Recent content in Saga on One Piece Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2019 14:31:25 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 21:17:37 +0700</lastBuildDate>
     
 	<atom:link href="https://onepiece-id.netlify.com/saga/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dressrosa</title>
+      <link>https://onepiece-id.netlify.com/saga/dressrosa/</link>
+      <pubDate>Tue, 20 Aug 2019 21:17:37 +0700</pubDate>
+      
+      <guid>https://onepiece-id.netlify.com/saga/dressrosa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fish-Man Island</title>
