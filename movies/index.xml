@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on One Piece Indonesia</title>
+    <link>https://onepiece-id.netlify.com/movies/</link>
+    <description>Recent content in Movies on One Piece Indonesia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2020 21:47:11 +0700</lastBuildDate>
+    
+	<atom:link href="https://onepiece-id.netlify.com/movies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One Piece Movie: Stampede</title>
+      <link>https://onepiece-id.netlify.com/movies/one-piece-stampede/</link>
+      <pubDate>Thu, 02 Jan 2020 21:47:11 +0700</pubDate>
+      
+      <guid>https://onepiece-id.netlify.com/movies/one-piece-stampede/</guid>
+      <description>One Piece Stampede Sub Indo adalah movie ke-14 dari serial anime One Piece. Di Jepang sendiri movie ini rilis pada tanggal 9 Agustus 2019 sebagai peringatan dari 20 tahun tayangnya serial animenya.</description>
+    </item>
+    
+  </channel>
+</rss>
