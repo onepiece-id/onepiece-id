@@ -3,8 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://onepiece-id.netlify.com/arcs/</loc>
+    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/arcs/movies/</loc>
+    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/saga/movies/</loc>
+    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/movies/</loc>
+    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://onepiece-id.netlify.com/</loc>
-    <lastmod>2019-12-31T17:36:33+07:00</lastmod>
+    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/movies/one-piece-stampede/</loc>
+    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/saga/</loc>
+    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -17,21 +59,7 @@
   </url>
   
   <url>
-    <loc>https://onepiece-id.netlify.com/arcs/</loc>
-    <lastmod>2019-12-30T14:07:58+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://onepiece-id.netlify.com/yonko/wano-country/one-piece-episode-916-subtitle-indonesia/</loc>
-    <lastmod>2019-12-30T14:07:58+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.com/saga/</loc>
     <lastmod>2019-12-30T14:07:58+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -6,10 +6,19 @@
     <description>Recent content in Arcs on One Piece Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Dec 2019 14:07:58 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 21:47:11 +0700</lastBuildDate>
     
 	<atom:link href="https://onepiece-id.netlify.com/arcs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Movies</title>
+      <link>https://onepiece-id.netlify.com/arcs/movies/</link>
+      <pubDate>Thu, 02 Jan 2020 21:47:11 +0700</pubDate>
+      
+      <guid>https://onepiece-id.netlify.com/arcs/movies/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Wano Country</title>
