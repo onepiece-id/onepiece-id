@@ -1,9 +1,93 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://onepiece-id.netlify.com/arcs/</loc>
+    <lastmod>2020-03-17T09:31:54+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/yonko/wano-country/one-piece-episode-924-subtitle-indonesia/</loc>
+    <lastmod>2020-03-17T09:31:54+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/saga/</loc>
+    <lastmod>2020-03-17T09:31:54+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/arcs/wano-country/</loc>
+    <lastmod>2020-03-17T09:31:54+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/saga/yonko/</loc>
+    <lastmod>2020-03-17T09:31:54+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/yonko/</loc>
+    <lastmod>2020-03-17T09:31:54+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/yonko/wano-country/one-piece-episode-923-subtitle-indonesia/</loc>
+    <lastmod>2020-03-17T09:31:49+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/yonko/wano-country/one-piece-episode-922-subtitle-indonesia/</loc>
+    <lastmod>2020-03-17T09:31:44+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/yonko/wano-country/one-piece-episode-921-subtitle-indonesia/</loc>
+    <lastmod>2020-03-17T09:31:39+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/yonko/wano-country/one-piece-episode-920-subtitle-indonesia/</loc>
+    <lastmod>2020-03-17T09:31:34+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/yonko/wano-country/one-piece-episode-919-subtitle-indonesia/</loc>
+    <lastmod>2020-03-17T09:31:29+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/yonko/wano-country/one-piece-episode-918-subtitle-indonesia/</loc>
+    <lastmod>2020-03-17T09:31:24+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.com/saga/movies/</loc>
     <lastmod>2020-01-02T21:47:11+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -17,21 +101,7 @@
   </url>
   
   <url>
-    <loc>https://onepiece-id.netlify.com/saga/movies/</loc>
-    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://onepiece-id.netlify.com/movies/</loc>
-    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.com/</loc>
     <lastmod>2020-01-02T21:47:11+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -45,8 +115,8 @@
   </url>
   
   <url>
-    <loc>https://onepiece-id.netlify.com/saga/</loc>
-    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
+    <loc>https://onepiece-id.netlify.com/</loc>
+    <lastmod>2019-12-31T17:36:33+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -60,27 +130,6 @@
   
   <url>
     <loc>https://onepiece-id.netlify.com/yonko/wano-country/one-piece-episode-916-subtitle-indonesia/</loc>
-    <lastmod>2019-12-30T14:07:58+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.com/arcs/wano-country/</loc>
-    <lastmod>2019-12-30T14:07:58+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.com/saga/yonko/</loc>
-    <lastmod>2019-12-30T14:07:58+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.com/yonko/</loc>
     <lastmod>2019-12-30T14:07:58+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5869,14 +5918,14 @@
   </url>
   
   <url>
-    <loc>https://onepiece-id.netlify.com/alabasta/</loc>
+    <loc>https://onepiece-id.netlify.com/saga/alabasta/</loc>
     <lastmod>2019-08-06T17:39:44+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://onepiece-id.netlify.com/saga/alabasta/</loc>
+    <loc>https://onepiece-id.netlify.com/alabasta/</loc>
     <lastmod>2019-08-06T17:39:44+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
