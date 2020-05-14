@@ -1,1 +1,1 @@
-Situs: https://onepiece-id.netlify.com
+Situs: https://onepiece-id.netlify.app/
