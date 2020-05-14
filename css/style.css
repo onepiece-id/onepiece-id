@@ -663,7 +663,8 @@ button:not(:-moz-focusring):focus>.menu__btn-title {
 }
 
 .post__thumbnail img {
-	width: 100%
+	width: 100%;
+	display: none;
 }
 
 .content a,
@@ -1325,7 +1326,7 @@ textarea {
 	cursor: pointer;
 	transition: box-shadow .2s;
 	transition: .5s;
-	margin: 14px 0 0 0
+	margin: 13px 0 0 0;
 }
 
 .material::-moz-focus-inner {
