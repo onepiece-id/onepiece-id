@@ -3,6 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://onepiece-id.netlify.app/movies/</loc>
+    <lastmod>2020-05-17T17:07:43+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/</loc>
+    <lastmod>2020-05-17T17:07:43+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/one-piece-stampede-2019/</loc>
+    <lastmod>2020-05-17T17:07:43+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/one-piece-film-gold-2018/</loc>
+    <lastmod>2020-05-17T17:06:43+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/film-z-2012/</loc>
+    <lastmod>2020-05-17T16:06:43+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/3d-straw-hat-chase-2011/</loc>
+    <lastmod>2020-05-17T16:06:17+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/strong-world-2009/</loc>
+    <lastmod>2020-05-17T16:06:04+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/chopper-plus-bloom-in-winter-miracle-sakura-2008/</loc>
+    <lastmod>2020-05-17T16:06:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/the-desert-princess-and-the-pirates-adventures-in-alabasta-2007/</loc>
+    <lastmod>2020-05-17T16:05:50+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/giant-mecha-soldier-of-karakuri-castle-2006/</loc>
+    <lastmod>2020-05-17T16:05:48+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/baron-omatsuri-and-the-secret-island-2005/</loc>
+    <lastmod>2020-05-17T16:05:42+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/the-cursed-holy-sword-2004/</loc>
+    <lastmod>2020-05-17T16:05:36+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/dead-end-adventure-2003/</loc>
+    <lastmod>2020-05-17T16:05:31+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/choppers-kingdom-on-the-island-of-strange-animals-2002/</loc>
+    <lastmod>2020-05-17T16:05:25+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/adventure-in-clockwork-island-2001/</loc>
+    <lastmod>2020-05-17T16:05:20+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/movies/the-movie-2000/</loc>
+    <lastmod>2020-05-17T12:05:20+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/tutorial/</loc>
+    <lastmod>2020-05-16T17:36:33+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://onepiece-id.netlify.app/tutorial/tutorial-download-di-acefile-mega.nz/</loc>
+    <lastmod>2020-05-16T17:36:33+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://onepiece-id.netlify.app/arcs/</loc>
     <lastmod>2020-05-12T16:27:30+07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -124,62 +250,6 @@
   <url>
     <loc>https://onepiece-id.netlify.app/yonko/wano-country/one-piece-episode-917-subtitle-indonesia/</loc>
     <lastmod>2020-03-13T19:43:12+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.app/saga/movies/</loc>
-    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.app/arcs/movies/</loc>
-    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.app/movies/</loc>
-    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.app/movies/one-piece-stampede/</loc>
-    <lastmod>2020-01-02T21:47:11+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.app/</loc>
-    <lastmod>2019-12-31T17:36:33+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.app/tutorial/</loc>
-    <lastmod>2019-12-31T17:36:33+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.app/tutorial/tutorial-download-di-acefile-dropbox-mega.nz/</loc>
-    <lastmod>2019-12-31T17:36:33+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://onepiece-id.netlify.app/tutorial/</loc>
-    <lastmod>2019-12-31T17:36:33+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
